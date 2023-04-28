@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bef6669d.css",
+    "main.js": "/static/js/main.cc56b595.js",
+    "static/media/banner3.png": "/static/media/banner3.249371d38d005e754faf.png",
+    "static/media/projectimg.webp": "/static/media/projectimg.5dd8b864a71630545ad0.webp",
+    "static/media/web.png": "/static/media/web.025db1cb40fb4a1223e1.png",
+    "static/media/visual-content-development-topleft.png": "/static/media/visual-content-development-topleft.9cb3a7a287141ec3470e.png",
+    "static/media/Quantum_Logo.avif": "/static/media/Quantum_Logo.0dbecc3058493450eabf.avif",
+    "static/media/googlePlay.webp": "/static/media/googlePlay.ef69a82be16d3b6d5d7d.webp",
+    "index.html": "/index.html",
+    "main.bef6669d.css.map": "/static/css/main.bef6669d.css.map",
+    "main.cc56b595.js.map": "/static/js/main.cc56b595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef6669d.css",
+    "static/js/main.cc56b595.js"
+  ]
+}
