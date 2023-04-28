@@ -63,6 +63,21 @@ const HomePage = ({ theme }) => {
                                         Get In Touch
                                     </button>
                                 </a>
+                                <div className="atul_full">
+                                <div className="atul">
+                                <img src="./Image/zoom pic dp.jpg" alt="" />
+                                <h1>ATUL KRISHNA</h1>
+                                <h2>Mobile No.</h2>
+                                <h2>7979053308</h2>
+                                </div>
+                                <div className="kailash">
+                                <img src="./Image/kailash.png" alt="" />
+                                <h1>KAILASH JHA</h1>
+                                <h2>Mobile No.</h2>
+                                <h2>8210810233</h2>
+                                </div>
+
+                                </div>
                             </div>
                         </div>
                     </div>

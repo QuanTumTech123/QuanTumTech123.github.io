@@ -1,3 +1,38 @@
+.atul_full{
+  height: 280px;
+  width: 70%;
+  /* border: 2px solid black ; */
+  display: flex;
+  gap: 20px;
+  /* margin: auto; */
+  margin: 10px;
+  color: red;
+}
+.atul {
+  height: 280px;
+  width: 300px;
+  /* border: 2px solid red; */
+}
+.kailash{
+  height: 280px;
+  width: 300px;
+  /* border: 2px solid rgb(0, 0, 255); */
+}
+
+.atul img{
+  height: 200px;
+  width: 250px;
+  /* border: 2px solid red; */
+  border-radius: 20PX;
+}
+.kailash img{
+  height: 200px;
+  width: 250px;
+  border-radius: 20PX;
+
+  /* border: 2px solid rgb(0, 0, 255); */
+}
+
 .container {
   display: flex;
   justify-content: center;
