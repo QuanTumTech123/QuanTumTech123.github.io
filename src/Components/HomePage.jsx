@@ -68,7 +68,7 @@ const HomePage = ({ theme }) => {
                                 <img src="./Image/zoom pic dp.jpg" alt="" />
                                 <h1>ATUL KRISHNA</h1>
                                 <h2>Mobile No.</h2>
-                                <h2>7979053308</h2>
+                                <h2>+91 7979053308</h2>
                                 </div>
                                 <div className="kailash">
                                 <img src="./Image/kailash.png" alt="" />
