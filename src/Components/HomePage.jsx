@@ -65,7 +65,7 @@ const HomePage = ({ theme }) => {
                                 </a>
                                 <div className="atul_full">
                                 <div className="atul">
-                                <img src="./Image/zoom pic dp.jpg" alt="" />
+                                <img src="./Image/guthib111.jpg a" alt="" />
                                 <h1>ATUL KRISHNA</h1>
                                 <h2>Mobile No.</h2>
                                 <h2>+91 7979053308</h2>

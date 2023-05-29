@@ -6,12 +6,14 @@
   gap: 20px;
   /* margin: auto; */
   margin: 10px;
-  color: red;
+  color: rgb(226, 38, 21);
 }
 .atul {
   height: 280px;
   width: 300px;
   /* border: 2px solid red; */
+  /* background-color: rgb(83, 21, 190); */
+
 }
 .kailash{
   height: 280px;
@@ -20,7 +22,7 @@
 }
 
 .atul img{
-  height: 200px;
+  height: 201px;
   width: 250px;
   /* border: 2px solid red; */
   border-radius: 20PX;
